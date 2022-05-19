@@ -1,0 +1,22 @@
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+
+#mainbar{
+    height: 100px;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+#invals{
+    position: absolute;
+    left: 75vh;
+    top: 20vh;
+}
+
+#image-tab{
+    position: absolute;
+    left: 88vh;
+    top: 30vh;
+}
+
